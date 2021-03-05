@@ -6,7 +6,7 @@ const MobileHeader: React.FC = () => {
   return (
     <Container>
       <ProfileCircle src="https://github.com/maganezf.png" />
-      <SearchInput placeholder="Search" />
+      <SearchInput placeholder="Pesquisar" />
       <MessageIcon />
     </Container>
   );

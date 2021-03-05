@@ -20,9 +20,12 @@ const FeedPost: React.FC = () => {
     <Panel>
       <Container>
         <Row className="heading">
-          <Avatar src="https://i.imgur.com/81RtXfT.jpg" alt="Rocketseat" />
+          <Avatar
+            src="https://cdn4.iconfinder.com/data/icons/seo-search-engine-optimization-coloured-circle/100/-_SEO_-_Webmarketing_-_Code_-_Developer_-_Web_-_Development-512.png"
+            alt="Profile Code Icon"
+          />
           <Column>
-            <h3>Rocketseat</h3>
+            <h3>CodeLevelUp</h3>
             <h4>Instituição de ensino</h4>
             <time>1 sem</time>
           </Column>
@@ -30,7 +33,7 @@ const FeedPost: React.FC = () => {
 
         <PostImage
           src="https://blog.rocketseat.com.br/content/images/2019/05/Painel.png"
-          alt="Rocketseat Blog"
+          alt="Content Image"
         />
 
         <Row className="likes">
