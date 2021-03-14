@@ -9,7 +9,7 @@ import {
 export const Container = styled.div`
   margin-top: 8px;
 
-  @media (min-width: 1180px) {
+  @media (min-width: 1080px) {
     margin-top: 16px;
   }
 `;
@@ -42,16 +42,15 @@ export const Row = styled.div`
       height: 16px;
       border-radius: 50%;
 
-      &.blue {
-        background: #1385bd;
-      }
-      &.green {
-        background: #6dae4f;
-      }
       &.red {
+        background: #fc615d;
+      }
+      &.yellow {
         background: #df704c;
       }
-
+      &.green {
+        background: #35c749;
+      }
       & + .circle {
         margin-left: 4px;
       }
@@ -63,7 +62,7 @@ export const Row = styled.div`
   &.actions {
     justify-content: space-between;
 
-    @media (min-width: 1180px) {
+    @media (min-width: 1080px) {
       justify-content: flex-start;
     }
 
@@ -88,7 +87,7 @@ export const Row = styled.div`
       span {
         display: none;
 
-        @media (min-width: 1180px) {
+        @media (min-width: 1080px) {
           display: unset;
         }
       }

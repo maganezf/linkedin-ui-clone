@@ -9,7 +9,13 @@ export const Container = styled.div`
     display: flex;
   }
 
-  @media (min-width: 1180px) {
+  .left-column,
+  .right-column,
+  .ad-banner {
+    display: none;
+  }
+
+  @media (min-width: 1080px) {
     > main {
       display: flex;
       justify-content: center;
@@ -30,11 +36,5 @@ export const Container = styled.div`
     .middle-column {
       margin: 0 25px 16px;
     }
-  }
-
-  .left-column,
-  .right-column,
-  .ad-banner {
-    display: none;
   }
 `;

@@ -23,7 +23,7 @@ export const Container = styled.div`
   .attachment {
     display: none;
 
-    @media (min-width: 1180px) {
+    @media (min-width: 1080px) {
       display: flex;
       align-items: center;
       justify-content: space-between;

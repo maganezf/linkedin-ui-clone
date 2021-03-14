@@ -34,12 +34,13 @@ const FeedPost: React.FC = () => {
         <PostImage
           src="https://blog.rocketseat.com.br/content/images/2019/05/Painel.png"
           alt="Content Image"
+          loading="lazy"
         />
 
         <Row className="likes">
-          <span className="circle blue" />
-          <span className="circle green" />
           <span className="circle red" />
+          <span className="circle yellow" />
+          <span className="circle green" />
           <span className="number">49</span>
         </Row>
 

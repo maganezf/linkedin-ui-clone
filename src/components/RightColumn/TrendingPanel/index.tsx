@@ -14,42 +14,42 @@ const TrendingPanel: React.FC = () => {
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">Frontend - Next Level</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">UI - Next Level</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">UX - Next Level</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">ReactJS - Next Level</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">NextJS - Next Level</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
+              <span className="head">Better Developer - Next Level</span>
               <span className="subtext">há 1 d • 316 leitores</span>
             </span>
           </li>

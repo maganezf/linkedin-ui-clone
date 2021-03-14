@@ -15,7 +15,7 @@ export const Container = styled.header`
 
   display: none;
 
-  @media (min-width: 1180px) {
+  @media (min-width: 1080px) {
     display: block;
   }
 `;

@@ -17,7 +17,7 @@ export const Container = styled.div`
 
   z-index: 2;
 
-  @media (min-width: 1180px) {
+  @media (min-width: 1080px) {
     display: none;
   }
 `;
@@ -28,6 +28,8 @@ export const ProfileCircle = styled.img`
 
   border-radius: 50%;
   border: 1px solid var(--color-icons);
+
+  flex-shrink: 0;
 `;
 
 export const SearchInput = styled.input`

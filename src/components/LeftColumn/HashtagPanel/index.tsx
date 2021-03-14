@@ -4,7 +4,7 @@ import Panel from '../../Panel';
 
 import { Container, HashtagIcon } from './styles';
 
-const tags = ['front-end', 'react-js', 'landing-pages', 'node', 'developer'];
+const tags = ['front-end', 'react-js', 'next-js', 'UI/UX', 'node', 'developer'];
 
 const HashtagPanel: React.FC = () => {
   return (
