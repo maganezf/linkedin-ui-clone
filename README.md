@@ -82,7 +82,6 @@ This project was made using the follow technologies:
 # :dart: Purpose and Features
 
 - Responsive LinkedIn UI Clone (partial) for study purposes.
-- Light and Dark theme (Click on github icon to switch)
 
 # :construction_worker: How to Run
 
