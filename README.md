@@ -1,44 +1,123 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align='center'>
 
-## Available Scripts
+# <img align='center' src="./.github/linkedIn-logo.png" alt="LinkedIn logo" width="350" style='border-radius: 6px;'/>
 
-In the project directory, you can run:
+# <img align='center' src="./.github/logo.svg" alt="My logo (maganezf)" width="350" style='border-radius: 6px;'/>
 
-### `yarn start`
+</div>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+   <a href="https://www.linkedin.com/in/maganez-filho-b5813b188/">
+      <img alt="Maganez Filho" src="https://img.shields.io/badge/-Maganez_Filho-0A66C2?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <img alt='Project Top Language' src='https://img.shields.io/github/languages/top/maganezf/linkedin-ui-clone'/>
 
-### `yarn test`
+  <a href='https://linkedin-ui-clone-maganezf.netlify.app/' >
+    <img alt='LinkedIn UI Clone' src="https://img.shields.io/badge/LinkedIn UI Clone-101D42"/>
+  </a>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/maganezf/linkedin-ui-clone?color=5863d2">
 
-### `yarn build`
+  <a href="https://github.com/maganezf/linkedin-ui-clone/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/maganezf/linkedin-ui-clone?color=5863d2">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/maganezf/linkedin-ui-clone?color=5863d2" />
+  <a href="https://github.com/maganezf/linkedin-ui-clone/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/maganezf/linkedin-ui-clone?color=5863d2&logo=github">
+  </a>
+</p>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<div align="center">
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+> This is my 'LinkedIn UI Clone' project 🤗
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<sub>The 'LinkedIn UI Clone' project. <br/>
+Built with ❤︎ by
+<a href="https://github.com/maganezf">Maganez Filho</a> and
+<a href="https://github.com/maganezf/linkedin-ui-clone/graphs/contributors">
+contributors
+</a>
+</sub>
 
-### `yarn eject`
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# :pushpin: Table of Contents
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [Live Website](#eyes-live-website)
+- [Technologies](#computer-technologies)
+- [Object / Features](#rocket-features)
+- [How to Run](#construction_worker-how-to-run)
+- [Found a bug? Missing a specific feature?](#bug-issues)
+- [Contributing](#tada-contributing)
+- [License](#closed_book-license)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<h2 align="left"> 🎨 Layout:</h2>
+<p align="center">
+  <div align="center">
+    <img src="./.github/screenshot1.png" width="400px" style='border-radius: 6px;' />
+    <img src="./.github/screenshot2.png" width="400px" style='border-radius: 6px;' />
+  </div>
+  <br/>
+</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# :eyes: Live Website
 
-## Learn More
+👉 [Click to open Website here](https://linkedin-ui-clone-maganezf.netlify.app/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# :computer: Technologies
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project was made using the follow technologies:
+
+- [React.js](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [SASS / SCSS](https://sass-lang.com/)
+- [Styled Components](https://styled-components.com/)
+- [Yarn](https://yarnpkg.com/)
+- [Netlify (hosting)](https://netlify.com/)
+
+# :rocket: Features
+
+- Responsive LinkedIn UI Clone (partial) for study purposes.
+- Light and Dark theme (Click on github icon to switch)
+
+# :construction_worker: How to Run
+
+### 💻 Run Project locally
+
+```bash
+# Install Dependencies
+$ npm install or yarn install
+
+# Run Aplication
+$ yarn start
+```
+
+Go to http://localhost:3000/ to see the result.
+
+# :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the the [LinkedIn UI Clone](https://github.com/maganezf/linkedin-ui-clone/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+
+# :tada: Contributing
+
+First of all, thank you for being interested in helping out, your time is always appreciated in every way. 💯
+
+Here's some tips:
+
+- Check the [issues page](https://github.com/maganezf/linkedin-ui-clone/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
+- Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
+
+Check out the [contributing](./CONTRIBUTING) page to see the best places to file issues, start discussions and begin contributing.
+
+# :closed_book: License
+
+Released in 2021 📕 License
+
+Made with ❤︎ by [Maganez Filho](https://github.com/maganezf) 🚀. <br/>
+This project is under the [MIT license](./LICENSE).
+
+Give a ⭐️ if this project helped you!
