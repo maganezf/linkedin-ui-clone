@@ -87,7 +87,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/maganezf/twitter-ui-clone.git
+$ git clone https://github.com/maganezf/linkedin-ui-clone.git
 ```
 
 ### 💻 Run Web Project
